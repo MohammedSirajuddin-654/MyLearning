@@ -1,1 +1,1 @@
-# Barbar Canada-An E-commerce website
+# Bartar Canada-An E-commerce website
