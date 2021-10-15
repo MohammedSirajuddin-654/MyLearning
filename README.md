@@ -1,1 +1,1 @@
-# Bartar Canada-An E-commerce website
+# Barter Canada-An E-commerce website
